@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Tom Cruise",
+      "occupation": "f",
+      "weapon": "s",
+      "cartoon": "on"
+    },
+    {
+      "id": 4,
+      "name": "Spiderman",
+      "occupation": "cop",
+      "weapon": "spiders",
+      "cartoon": "on"
+    },
+    {
+      "id": 5,
+      "name": "rodrgie",
+      "occupation": "labfuebf",
+      "weapon": "bfdsfdds",
+      "cartoon": "on"
+    },
+    {
+      "name": "machine",
+      "occupation": "Singer",
+      "weapon": "pistol",
+      "cartoon": "on",
+      "id": 6
+    },
+    {
+      "name": "Musik-api",
+      "occupation": "wer",
+      "weapon": "234",
+      "cartoon": "on",
+      "id": 7
+    },
+    {
+      "name": "Tom Hanks",
+      "occupation": "Business",
+      "weapon": "s",
+      "cartoon": "on",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Tom the cat",
+      "occupation": "jerry",
+      "weapon": "claws",
+      "cartoon": "on"
+    }
+  ]
+}
