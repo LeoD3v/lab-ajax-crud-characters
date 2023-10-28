@@ -8,13 +8,6 @@
       "cartoon": "on"
     },
     {
-      "id": 4,
-      "name": "Spiderman",
-      "occupation": "cop",
-      "weapon": "spiders",
-      "cartoon": "on"
-    },
-    {
       "id": 5,
       "name": "rodrgie",
       "occupation": "labfuebf",
@@ -48,6 +41,13 @@
       "occupation": "jerry",
       "weapon": "claws",
       "cartoon": "on"
+    },
+    {
+      "name": "qqq",
+      "occupation": "qqq",
+      "weapon": "qqq",
+      "cartoon": "on",
+      "id": 10
     }
   ]
 }
